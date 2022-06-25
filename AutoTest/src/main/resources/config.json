@@ -1,0 +1,13 @@
+{
+  "name": "测试环境",
+  "httpApi": [
+    {
+      "name": "register",
+      "url": "http://localhost:9119/register",
+      "timeout": 5000,
+      "parameter": {
+        "username": "leigo"
+      }
+    }
+  ]
+}

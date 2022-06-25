@@ -14,7 +14,7 @@ public class indexController {
             "</head>\n" +
             "<body>\n" +
             "\n" +
-            "<h1>GoodNigh!</h1>\n" +
+            "<h1>傻逼</h1>\n" +
             "<p>wish u have a sweet dream ~</p><img src=\"/bitcoin.jpg\" alt=\"Buy bitcoin\" width=\"600\" height=\"181\">\n" +
             "\n" +
             "</body>\n" +
