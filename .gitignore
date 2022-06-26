@@ -1,8 +1,11 @@
+
 # Compiled class file
 *.class
 .idea
 /AutoTest/target
 /AutoTest/target/*
+/ChatRoom/target
+/ChatRoom/target/*
 # Log file
 *.log
 
